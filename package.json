@@ -1,1 +1,18 @@
 
+{
+  "name": "ccp-bike-erp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.2.5",
+    "lucide-react": "^0.400.0",
+    "@supabase/supabase-js": "^2.44.0"
+  }
+}
