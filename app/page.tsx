@@ -1,3 +1,5 @@
+'use client';
+
 import React, { useState, useRef } from 'react';
 import { Activity, Edit3, 
   BarChart3, DollarSign, Users, Layers, Wrench, Truck, FileText, 
